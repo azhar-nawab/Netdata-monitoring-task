@@ -42,12 +42,6 @@ This project demonstrates how to monitor system resources on an AWS EC2 instance
 
 ---
 
-## 📄 Summary Report
-
-Read the [summary-report.md](summary-report.md) for detailed insights into the monitoring process and outcome.
-
----
-
 ## 📦 Prerequisites
 
 - ✅ Docker installed (automated by script)
